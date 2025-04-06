@@ -1,9 +1,9 @@
 # FPGA_Demo
 
-fpga flow
-support project mode
-no-project mode
-win os flow
+fpga flow，
+support project mode，
+no-project mode，
+win os flow，
 linux os flow
 
 1.$cd vivado_flow
