@@ -1,0 +1,6 @@
++libext+.v+.sv+.vlib
+
++incdir+../rtl_fpga
+-y      ../rtl_fpga
+
+tb.sv
